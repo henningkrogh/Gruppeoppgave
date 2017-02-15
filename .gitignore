@@ -1,0 +1,9 @@
+*Binaries
+*Build
+*Intermediate
+*Saved
+*StarterContent
+
+*.VC.db
+*.db
+*.sln
